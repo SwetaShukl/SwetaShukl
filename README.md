@@ -4,7 +4,7 @@ This is where I add my technical writing work samples.
   
 👀 **About me**
 
-Hi! You can call me Sweta Kumari. I am a technical writer with 10 years of experiance into this field, and a specific of 8+ years in to software and IT domain.
+Hi! You can call me Sweta Kumari. I am a technical writer with 10 years of experiance in this field, and a specific of 8+ years in software and IT domain.
 
 🌱 **I’m currently learning**
 
